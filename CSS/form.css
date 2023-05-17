@@ -1,0 +1,21 @@
+
+  legend{
+    border:solid black 0px;
+  }
+  fieldset{
+    border:solid black 0px;
+    text-align:left;
+    height:365px; 
+  }
+  label{
+    display:block;
+    margin-left:2px;
+  }
+  input{
+    padding:2px;
+  }
+  input[type="submit"]{
+    background-color:gray;
+    color:black;
+    border-radius:5px;
+  }
