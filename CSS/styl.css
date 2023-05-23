@@ -25,11 +25,11 @@ body{
     margin:0px 5px 5px 0px;
     width:182.5px;
     height:182.5px;
-    background-color:#111111;
+    background-color:#491f23;
 }
 #box1:hover{
     transition:0.5s;
-    background-color:#1d1e1e; 
+    background-color:#37181b; 
 }
 #box2{
     border:3px solid black;
@@ -112,7 +112,7 @@ body{
     margin:0px 5px 0px 0px;
     width:587.5px;
     height:385px;
-    background-color:#111111;
+    background-color:#491f23;
 }
 #box8{
     border:3px solid black;
