@@ -44,7 +44,7 @@ body{
 }
 #box2:hover{
     transition:0.5s;
-    filter:brightness(75%);
+    background-color:#144400;
 }
 #box3{
     border:3px solid black;
