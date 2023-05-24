@@ -76,8 +76,8 @@ h3{
 }
 #box3:hover{
     transition:2s;
-    text-shadow: 10px 10px 3px black;
-    box-shadow: 0px 0px 200px white;
+    background-color:white;
+    box-shadow: 0px 0px 50px white;
     border:3px solid black;
     border-radius:25px;
 }
@@ -94,9 +94,12 @@ h3{
     background-color:#ffffff;
 }
 #box4:hover{
-    transition:0.5s;
+    transition:2s;
     background-color:#000000;
     color:#ffffff;
+    box-shadow: 0px 0px 50px white;
+    border:3px solid black;
+    border-radius:25px;
 }
 #box5{
     border:3px solid black;
@@ -111,7 +114,7 @@ h3{
 #box5:hover{
     transition:2s;
     background-color:white;
-    box-shadow: 0px 0px 200px white;
+    box-shadow: 0px 0px 50px white;
     border:3px solid black;
     border-radius:25px;
 }
@@ -129,8 +132,8 @@ h3{
 #box6:hover{
     transition:0.5s;
     filter:brightness(75%);
-    box-shadow: 0px 0px 200px black;
-    border:3px solid white;
+    box-shadow: 0px 0px 50px white;
+    border:3px solid black;
     border-radius:25px;
 }
 #box7{
@@ -165,8 +168,8 @@ h3{
 #box8:hover{
     transition:2s;
     filter:brightness(75%);
-    box-shadow: 0px 0px 200px black;
-    border:3px solid white;
+    box-shadow: 0px 0px 50px white;
+    border:3px solid black;
     border-radius:25px;
 }
 #box9{
@@ -198,9 +201,10 @@ h3{
 #footer:hover{
     transition:2s;
     background-color:white;
-    box-shadow: 0px 0px 200px white;
+    box-shadow: 0px 0px 50px white;
     border:3px solid black;
     border-radius:25px;
+    color:black;
 }
 a{
     color:white;
