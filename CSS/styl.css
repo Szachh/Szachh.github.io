@@ -4,6 +4,9 @@ body{
     margin:0px;
     background-color:#292929;
 }
+i{
+    color:#6e251f;
+}
 #container{
     margin:20px auto 20px auto;
     width:800px;
@@ -15,6 +18,13 @@ body{
     width:790px;
     text-align:center;
     background-color:#414141;
+}
+#header:hover{
+    transition:2s;
+    background-color:black;
+    box-shadow: 0px 0px 200px black;
+    border:3px solid white;
+    border-radius:25px;
 }
 #box1{
     border:3px solid black;
@@ -88,6 +98,10 @@ body{
     width:587.5px;
     height:182.5px;
     background-color:#6e251f;
+}
+#box5:hover{
+    transition:2s;
+    background-color:white;
 }
 #box6{
     border:3px solid black;
