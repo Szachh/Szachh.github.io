@@ -111,6 +111,9 @@ h3{
 #box5:hover{
     transition:2s;
     background-color:white;
+    box-shadow: 0px 0px 200px white;
+    border:3px solid black;
+    border-radius:25px;
 }
 #box6{
     border:3px solid black;
@@ -126,6 +129,9 @@ h3{
 #box6:hover{
     transition:0.5s;
     filter:brightness(75%);
+    box-shadow: 0px 0px 200px black;
+    border:3px solid white;
+    border-radius:25px;
 }
 #box7{
     border:3px solid black;
@@ -136,6 +142,13 @@ h3{
     width:587.5px;
     height:385px;
     background-color:#491f23;
+}
+#box7:hover{
+    transition:2s;
+    background-color:#37181b; 
+    box-shadow: 0px 0px 200px black;
+    border:3px solid white;
+    border-radius:25px;
 }
 #box8{
     border:3px solid black;
@@ -150,8 +163,11 @@ h3{
     background-size:200px;
 }
 #box8:hover{
-    transition:0.5s;
+    transition:2s;
     filter:brightness(75%);
+    box-shadow: 0px 0px 200px black;
+    border:3px solid white;
+    border-radius:25px;
 }
 #box9{
     border:3px solid black;
@@ -162,6 +178,12 @@ h3{
     width:587.5px;
     height:385px;
     background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+#box9:hover{
+    transition:2s;
+    box-shadow: 0px 0px 200px black;
+    border:3px solid white;
+    border-radius:25px;
 }
 #footer{
     border:3px solid white;
