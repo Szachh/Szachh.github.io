@@ -18,9 +18,9 @@ h3{
     width:790px;
     text-align:center;
     background-color:#414141;
+    transition:2s;
 }
 #header:hover{
-    transition:2s;
     background-color:black;
     box-shadow: 0px 0px 200px black;
     border:3px solid white;
@@ -36,9 +36,9 @@ h3{
     width:182.5px;
     height:182.5px;
     background-color:#491f23;
+    transition:2s;
 }
 #box1:hover{
-    transition:2s;
     background-color:#37181b; 
     box-shadow: 0px 0px 200px black;
     border:3px solid white;
@@ -54,9 +54,9 @@ h3{
     width:182.5px;
     height:182.5px;
     background-color:green;
+    transition:2s;
 }
 #box2:hover{
-    transition:2s;
     background-color:#144400;
     box-shadow: 0px 0px 200px black;
     border:3px solid white;
@@ -73,9 +73,9 @@ h3{
     height:182.5px;
     background-color:white;
     color:black;
-}
-#box3:hover{
     transition:2s;
+}
+#box3:hover{ 
     background-color:white;
     box-shadow: 0px 0px 50px white;
     border:3px solid black;
@@ -92,9 +92,9 @@ h3{
     width:182.5px;
     height:182.5px;
     background-color:#ffffff;
+    transition:2s;
 }
 #box4:hover{
-    transition:2s;
     background-color:#000000;
     color:#ffffff;
     box-shadow: 0px 0px 50px white;
@@ -110,9 +110,9 @@ h3{
     width:587.5px;
     height:182.5px;
     background-color:#6e251f;
+    transition:2s;
 }
 #box5:hover{
-    transition:2s;
     background-color:white;
     box-shadow: 0px 0px 50px white;
     border:3px solid black;
@@ -128,9 +128,9 @@ h3{
     background-image:url(https://st3.depositphotos.com/4201469/14488/v/450/depositphotos_144880797-stock-illustration-linear-school-icon-pictogram-in.jpg);
     background-position: center;
     background-size:200px;
+    transition:2s;
 }
 #box6:hover{
-    transition:0.5s;
     filter:brightness(75%);
     box-shadow: 0px 0px 50px white;
     border:3px solid black;
@@ -145,9 +145,9 @@ h3{
     width:587.5px;
     height:385px;
     background-color:#491f23;
+    transition:2s;
 }
 #box7:hover{
-    transition:2s;
     background-color:#37181b; 
     box-shadow: 0px 0px 200px black;
     border:3px solid white;
@@ -164,9 +164,9 @@ h3{
     background-image:url(https://cdn-icons-png.flaticon.com/512/138/138391.png);
     background-position: center;
     background-size:200px;
+    transition:2s;
 }
 #box8:hover{
-    transition:2s;
     filter:brightness(75%);
     box-shadow: 0px 0px 50px white;
     border:3px solid black;
@@ -181,9 +181,9 @@ h3{
     width:587.5px;
     height:385px;
     background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    transition:2s;
 }
 #box9:hover{
-    transition:2s;
     box-shadow: 0px 0px 200px black;
     border:3px solid white;
     border-radius:25px;
@@ -197,9 +197,9 @@ h3{
     height:91.25px;
     text-align:center;
     background-color:#111111;
-}
-#footer:hover{
     transition:2s;
+}
+#footer:hover{  
     background-color:white;
     box-shadow: 0px 0px 50px white;
     border:3px solid black;
